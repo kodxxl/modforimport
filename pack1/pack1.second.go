@@ -5,7 +5,7 @@ import(
 )
 
 func nop() {
-
+	return 42
 }
 
 func init() {

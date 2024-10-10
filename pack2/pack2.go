@@ -5,11 +5,11 @@ import(
 )
 
 func nop() {
-
+	return 42
 }
 
 func nop2() {
-
+	return 42
 }
 
 func init(){
