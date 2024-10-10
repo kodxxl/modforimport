@@ -4,8 +4,8 @@ import(
 	"log/slog"
 )
 
-func nop() int {
-	return 42
+func nop(a, b int) int {
+	return a + b
 }
 
 func nop2() int {
