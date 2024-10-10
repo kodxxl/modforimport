@@ -4,7 +4,7 @@ import(
 	"log/slog"
 )
 
-func nop() {
+func nop() int {
 	return 42
 }
 

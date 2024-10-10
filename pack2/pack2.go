@@ -4,11 +4,11 @@ import(
 	"log/slog"
 )
 
-func nop() {
+func nop() int {
 	return 42
 }
 
-func nop2() {
+func nop2() int {
 	return 42
 }
 
