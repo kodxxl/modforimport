@@ -4,7 +4,7 @@ import(
 	"log/slog"
 )
 
-func nop(a, b int) int {
+func Nop(a, b int) int {
 	return a + b
 }
 
